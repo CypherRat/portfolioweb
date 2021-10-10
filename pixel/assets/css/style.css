@@ -397,7 +397,7 @@ h3 {
 
 @media (max-width: 430px) {
   .Home-heading {
-    padding: 24px;
+/*     padding: 24px; */
   }
   .Home-leftcloud {
     left: -16px;
